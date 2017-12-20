@@ -1,5 +1,5 @@
 class Person
 
-  def initialize(individual_attributes)
+  def initialize(attributes)
   end
 end
